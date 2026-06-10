@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Adetokunbo Andrew
-Software Engineer · Full-Stack · Mobile
-
-I build production-grade web and mobile apps for the Nigerian market — end-to-end, from API to UI.
+Software engineer building full-stack web and mobile products for the Nigerian market.
+Founder of BusandCode — where ideas become scalable, production-grade apps.
 
 ---
 
