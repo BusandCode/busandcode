@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Adetokunbo Andrew
 
-<!--
-**BusandCode/busandcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Frontend • Full-Stack • Mobile  
+Founder @ BusandCode
 
-Here are some ideas to get you started:
+I build scalable web and mobile applications using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** React, Next.js, React Native, TypeScript, Node.js, Firebase
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
