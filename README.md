@@ -11,5 +11,5 @@ I build scalable web and mobile applications using modern technologies.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?busandcode=busandcode&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?busandcode=busandcode&layout=compact&hide_border=true)
