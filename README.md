@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adetokunbo Andrew
+# 👋 Hi, I'm Andrew Adetokunbo
 Software engineer building full-stack web and mobile products for the Nigerian market.
 Founder of BusandCode — where ideas become scalable, production-grade apps.
 
