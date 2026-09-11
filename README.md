@@ -2,9 +2,9 @@
 
 ### Software Engineer · Full-Stack & Mobile Developer
 
-I build **web and mobile products from idea to production**, working across frontend, backend, mobile, databases, integrations, and deployment.
+I build **web and mobile applications from idea to production**, working across frontend, backend, mobile, databases, APIs, integrations, and deployment.
 
-I'm also the founder of **BusandCode**, where I build and experiment with products designed to solve real-world problems.
+I'm also the founder of **BusandCode**, where I build products, experiment with ideas, and solve real-world problems through software.
 
 ---
 
@@ -12,69 +12,46 @@ I'm also the founder of **BusandCode**, where I build and experiment with produc
 
 ### Movana
 
-**Logistics & delivery management platform connecting businesses, riders, and customers.**
+A **logistics and delivery management platform** connecting businesses, riders, and customers.
 
-Movana helps businesses manage deliveries, riders manage delivery jobs, and customers track their deliveries throughout the delivery process.
+I'm currently building the Rider Mobile App and backend systems that power the platform.
 
-I'm currently focused on building the **Rider Mobile App** and the backend systems powering the platform.
+**What I'm working on:**
 
-### What I'm Building
+* Delivery creation and management
+* Rider delivery offers
+* Delivery tracking
+* Package management
+* Proof of delivery
+* Rider earnings
+* Push notifications
+* Delivery performance
+* Authentication and verification
+* AI-assisted logistics capabilities
 
-* 🚚 Delivery creation & management
-* 🛵 Rider delivery offers
-* 📍 Delivery tracking
-* 📦 Package & delivery management
-* ✅ Proof of delivery
-* 🔔 Push notifications
-* 💰 Rider earnings
-* 📊 Delivery performance
-* 🔐 Authentication & verification
-* 🤖 AI-powered logistics features
-
-### Movana Stack
-
-**Mobile**
-
-`React Native` · `Expo` · `TypeScript`
-
-**Backend**
-
-`NestJS` · `TypeScript` · `Prisma`
-
-**Database**
-
-`PostgreSQL`
-
-**Services & Infrastructure**
-
-`Firebase` · `Render` · `Git` · `GitHub`
+**Stack:**
+`React Native` · `Expo` · `TypeScript` · `NestJS` · `Prisma` · `PostgreSQL` · `Firebase`
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
+**Frontend**
 `React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
-### Mobile
-
+**Mobile**
 `React Native` · `Expo`
 
-### Backend
+**Backend**
+`NestJS` · `Node.js` · `Express.js` · `TypeScript`
 
-`NestJS` · `Node.js` · `TypeScript`
+**Database**
+`PostgreSQL` · `Prisma` · `Supabase`
 
-### Database
-
-`PostgreSQL` · `Prisma`
-
-### Payments & Integrations
-
+**Payments & Integrations**
 `Paystack` · `Firebase` · `Dojah`
 
-### Tools
-
+**Tools & Platforms**
 `Git` · `GitHub` · `Figma` · `Vercel` · `Render`
 
 ---
@@ -85,13 +62,15 @@ I'm currently focused on building the **Rider Mobile App** and the backend syste
 * Mobile applications
 * Fintech products
 * Logistics platforms
+* Healthcare applications
+* Education platforms
 * Marketplaces
 * Admin dashboards
 * Payment systems
 * REST APIs
 * Business management platforms
 
-I enjoy working across the entire product — from **design and frontend development to backend architecture, database design, integrations, and deployment.**
+I enjoy working across the **entire product lifecycle** — from understanding the problem and designing the interface to building the frontend, backend, database, integrations, and deploying the product.
 
 ---
 
@@ -99,46 +78,106 @@ I enjoy working across the entire product — from **design and frontend develop
 
 ### 🚚 Movana
 
-A logistics and delivery management platform connecting businesses, riders, and customers.
+**Logistics & Delivery Platform**
 
-**React Native · Expo · NestJS · Prisma · PostgreSQL**
+A platform connecting businesses, riders, and customers to manage and track deliveries.
 
----
-
-### 💳 Clune
-
-A fintech marketplace for purchasing tricycles and e-bikes in Nigeria, supporting outright purchases and installment-based payments.
-
-**React Native · React · Node.js · Express · PostgreSQL · Prisma · Paystack**
+`React Native` · `Expo` · `NestJS` · `Prisma` · `PostgreSQL`
 
 ---
 
-### 💰 Finora
+### 💳 Omnifi
 
-A loan management platform for loan applications, repayments, transactions, and account management.
+**Fintech Mobile Application**
 
-**React · TypeScript · Tailwind CSS · Vite**
+A modern fintech application focused on payments, account management, transactions, and financial services.
+
+`React Native` · `Expo` · `TypeScript`
+
+---
+
+### 🎓 Edamaa
+
+**Education Platform**
+
+A tutoring platform connecting students with tutors and schools, with scheduling, learning, and payment functionality.
+
+`React` · `TypeScript` · `Node.js`
 
 ---
 
 ### 🏥 Healthify
 
-A healthcare platform for discovering providers, booking consultations, managing appointments, and receiving updates.
+**Healthcare Platform**
 
-**Next.js · TypeScript · Supabase**
+A healthcare application that helps users discover healthcare providers and book appointments.
+
+`Next.js` · `TypeScript` · `Supabase`
 
 ---
 
-## 📊 GitHub Stats
+### 💰 Finora
+
+**Loan Management Platform**
+
+A loan management application covering loan applications, repayments, transactions, and account management.
+
+`React` · `TypeScript` · `Tailwind CSS` · `Vite`
+
+---
+
+### 💳 Clune
+
+**Fintech Marketplace**
+
+A platform for purchasing tricycles and e-bikes in Nigeria through outright purchases and installment-based payments.
+
+`React Native` · `React` · `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Paystack`
+
+---
+
+### 📚 ReadEvolve
+
+**Reading & Learning Platform**
+
+A mobile application built around reading and learning experiences.
+
+`React` · `Gluestack`
+
+---
+
+### 🛒 Yotomi Supermarket
+
+**E-commerce Application**
+
+An online supermarket application for browsing products and managing purchases.
+
+`JavaScript` · `React`
+
+---
+
+## 📂 More Projects
+
+I have worked on a range of projects across **fintech, healthcare, education, e-commerce, logistics, SaaS, and developer tools**.
+
+Some of my other repositories include:
+
+`Invoice App` · `Phos` · `Amorta` · `Cosmetics Store` · `DailyLoad` · `News App` · `Password Generator` · `Supabase CRUD` · `CV Builder` · `Hefa AI Agent` · `Portfolio Projects`
+
+Check out all of my repositories below.
+
+---
+
+## 📊 GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=busandcode&show_icons=true&hide_border=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api?username=busandcode&show_icons=true&theme=github_dark&hide_border=true"
     height="180"
-    alt="Andrew's GitHub Stats"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=busandcode&layout=compact&hide_border=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=busandcode&layout=compact&theme=github_dark&hide_border=true"
     height="180"
     alt="Top Languages"
   />
@@ -146,25 +185,13 @@ A healthcare platform for discovering providers, booking consultations, managing
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=busandcode&theme=github-compact&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
----
-
 ## 🤝 Let's Build
 
-I'm open to working with **startups, founders, and teams** building meaningful products.
+I'm open to working with **startups, founders, and teams** building useful products.
 
-If you're building something and need someone who can contribute across **web, mobile, backend, and product development**, let's connect.
+If you need a developer who can contribute across **web, mobile, backend, and product development**, I'd love to connect.
 
-📍 Nigeria 🇳🇬
+**📍 Nigeria 🇳🇬**
 
 **Open to software engineering opportunities, collaborations, and interesting products.**
 
