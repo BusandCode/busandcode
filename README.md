@@ -2,9 +2,9 @@
 
 ### Software Engineer · Full-Stack & Mobile Developer
 
-I build **web and mobile products from idea to production** — working across frontend, backend, mobile, databases, payments, and deployment.
+I build **web and mobile products from idea to production**, working across frontend, backend, mobile, databases, integrations, and deployment.
 
-I’m also the founder of **BusandCode**, where I build and experiment with products focused on solving real-world problems.
+I'm also the founder of **BusandCode**, where I build and experiment with products designed to solve real-world problems.
 
 ---
 
@@ -12,24 +12,42 @@ I’m also the founder of **BusandCode**, where I build and experiment with prod
 
 ### Movana
 
-**AI-powered logistics & delivery management platform.**
+**Logistics & delivery management platform connecting businesses, riders, and customers.**
 
-Movana connects **businesses, riders, and customers** in one platform — helping businesses manage deliveries, riders complete jobs, and customers track their orders in real time.
+Movana gives businesses the tools to create and manage deliveries, riders a dedicated mobile experience to manage delivery jobs, and customers a simple way to track their deliveries.
 
-I'm currently building the **Rider Mobile App** and the backend infrastructure powering the platform.
+I'm currently focused on building the **Rider Mobile App** and the backend systems powering the platform.
 
-**Core areas:**
+### What I'm building
 
-* 🚚 Delivery management
-* 🛵 Rider management
-* 📍 Real-time delivery tracking
-* 📦 Proof of delivery
-* 🔔 Delivery notifications
-* 📊 Business analytics
-* 🤖 AI-powered logistics insights
+* 🚚 Delivery creation & management
+* 🛵 Rider delivery offers
+* 📍 Delivery tracking
+* 📦 Delivery details & package management
+* ✅ Proof of delivery
+* 🔔 Notifications
+* 💰 Rider earnings
+* 📊 Delivery performance
+* 🔐 Rider authentication & verification
+* 🤖 Planned AI-powered logistics features
 
-**Stack:**
-`React Native` · `Expo` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
+### Movana Stack
+
+**Mobile**
+
+`React Native` · `Expo` · `TypeScript`
+
+**Backend**
+
+`NestJS` · `TypeScript` · `Prisma`
+
+**Database**
+
+`PostgreSQL`
+
+**Infrastructure & Services**
+
+`Git` · `GitHub` · `Render` · `Firebase`
 
 ---
 
@@ -45,32 +63,37 @@ I'm currently building the **Rider Mobile App** and the backend infrastructure p
 
 ### Backend
 
-`Node.js` · `Express.js` · `TypeScript` · `REST APIs`
+`NestJS` · `Node.js` · `TypeScript`
 
 ### Database
 
 `PostgreSQL` · `Prisma`
 
-### Tools & Services
+### Payments & Integrations
 
-`Git` · `GitHub` · `Figma` · `Vercel` · `Render` · `Paystack` · `Firebase` · `Dojah`
+`Paystack` · `Firebase` · `Dojah`
+
+### Tools
+
+`Git` · `GitHub` · `Figma` · `Vercel` · `Render`
 
 ---
 
-## 💻 What I Like Building
+## 💻 What I Build
 
 ```text
-Web Applications
+Full-Stack Web Applications
 Mobile Applications
 Fintech Products
-Marketplaces
 Logistics Platforms
+Marketplaces
 Admin Dashboards
 Payment Systems
-Backend APIs
+REST APIs
+Business Management Platforms
 ```
 
-I enjoy working on products where I can contribute beyond just the interface — from **design and architecture to APIs, databases, integrations, and deployment.**
+I enjoy working across the entire product — not just the interface, but also the **backend architecture, APIs, database design, integrations, and deployment**.
 
 ---
 
@@ -78,19 +101,31 @@ I enjoy working on products where I can contribute beyond just the interface —
 
 ### Movana
 
-AI-powered logistics and delivery management platform connecting businesses, riders, and customers.
+A logistics and delivery management platform connecting businesses, riders, and customers.
 
-**React Native · Node.js · PostgreSQL · TypeScript**
+**React Native · Expo · NestJS · Prisma · PostgreSQL**
+
+---
+
+### Clune
+
+A fintech marketplace for purchasing tricycles and e-bikes in Nigeria, supporting outright purchases and installment-based payments.
+
+**React Native · React · Node.js · Express · PostgreSQL · Prisma · Paystack**
+
+---
 
 ### Finora
 
-Loan management platform for applications, repayments, transactions, and account management.
+A loan management platform for applications, repayments, transactions, and account management.
 
 **React · TypeScript · Tailwind CSS · Vite**
 
+---
+
 ### Healthify
 
-Healthcare platform for discovering providers, booking consultations, managing appointments, and receiving updates.
+A healthcare platform for discovering providers, booking consultations, managing appointments, and receiving updates.
 
 **Next.js · TypeScript · Supabase**
 
@@ -111,16 +146,22 @@ Healthcare platform for discovering providers, booking consultations, managing a
 
 ---
 
-## 🔗 Connect
+## 📈 Contribution Activity
 
-<p align="left">
-  <a href="https://linkedin.com/in/andrew-adetokunbo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://busandcode.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=busandcode&theme=github-compact&hide_border=true"
+    width="100%"
+  />
 </p>
+
+---
+
+## 🤝 Let's Build
+
+I'm open to working with **startups, founders, and teams** building meaningful products.
+
+If you're building something and need someone who can contribute across **web, mobile, backend, and product development**, let's connect.
 
 📍 Nigeria 🇳🇬
 
