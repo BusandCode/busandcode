@@ -14,22 +14,22 @@ I'm also the founder of **BusandCode**, where I build and experiment with produc
 
 **Logistics & delivery management platform connecting businesses, riders, and customers.**
 
-Movana gives businesses the tools to create and manage deliveries, riders a dedicated mobile experience to manage delivery jobs, and customers a simple way to track their deliveries.
+Movana helps businesses manage deliveries, riders manage delivery jobs, and customers track their deliveries throughout the delivery process.
 
 I'm currently focused on building the **Rider Mobile App** and the backend systems powering the platform.
 
-### What I'm building
+### What I'm Building
 
 * 🚚 Delivery creation & management
 * 🛵 Rider delivery offers
 * 📍 Delivery tracking
-* 📦 Delivery details & package management
+* 📦 Package & delivery management
 * ✅ Proof of delivery
-* 🔔 Notifications
+* 🔔 Push notifications
 * 💰 Rider earnings
 * 📊 Delivery performance
-* 🔐 Rider authentication & verification
-* 🤖 Planned AI-powered logistics features
+* 🔐 Authentication & verification
+* 🤖 AI-powered logistics features
 
 ### Movana Stack
 
@@ -45,9 +45,9 @@ I'm currently focused on building the **Rider Mobile App** and the backend syste
 
 `PostgreSQL`
 
-**Infrastructure & Services**
+**Services & Infrastructure**
 
-`Git` · `GitHub` · `Render` · `Firebase`
+`Firebase` · `Render` · `Git` · `GitHub`
 
 ---
 
@@ -81,25 +81,23 @@ I'm currently focused on building the **Rider Mobile App** and the backend syste
 
 ## 💻 What I Build
 
-```text
-Full-Stack Web Applications
-Mobile Applications
-Fintech Products
-Logistics Platforms
-Marketplaces
-Admin Dashboards
-Payment Systems
-REST APIs
-Business Management Platforms
-```
+* Full-stack web applications
+* Mobile applications
+* Fintech products
+* Logistics platforms
+* Marketplaces
+* Admin dashboards
+* Payment systems
+* REST APIs
+* Business management platforms
 
-I enjoy working across the entire product — not just the interface, but also the **backend architecture, APIs, database design, integrations, and deployment**.
+I enjoy working across the entire product — from **design and frontend development to backend architecture, database design, integrations, and deployment.**
 
 ---
 
 ## 📌 Selected Projects
 
-### Movana
+### 🚚 Movana
 
 A logistics and delivery management platform connecting businesses, riders, and customers.
 
@@ -107,7 +105,7 @@ A logistics and delivery management platform connecting businesses, riders, and 
 
 ---
 
-### Clune
+### 💳 Clune
 
 A fintech marketplace for purchasing tricycles and e-bikes in Nigeria, supporting outright purchases and installment-based payments.
 
@@ -115,15 +113,15 @@ A fintech marketplace for purchasing tricycles and e-bikes in Nigeria, supportin
 
 ---
 
-### Finora
+### 💰 Finora
 
-A loan management platform for applications, repayments, transactions, and account management.
+A loan management platform for loan applications, repayments, transactions, and account management.
 
 **React · TypeScript · Tailwind CSS · Vite**
 
 ---
 
-### Healthify
+### 🏥 Healthify
 
 A healthcare platform for discovering providers, booking consultations, managing appointments, and receiving updates.
 
@@ -136,11 +134,13 @@ A healthcare platform for discovering providers, booking consultations, managing
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=busandcode&show_icons=true&hide_border=true&theme=github_dark"
-    height="170"
+    height="180"
+    alt="Andrew's GitHub Stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=busandcode&layout=compact&hide_border=true&theme=github_dark"
-    height="170"
+    height="180"
+    alt="Top Languages"
   />
 </p>
 
@@ -152,6 +152,7 @@ A healthcare platform for discovering providers, booking consultations, managing
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=busandcode&theme=github-compact&hide_border=true"
     width="100%"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
