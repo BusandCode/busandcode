@@ -24,10 +24,10 @@ I enjoy turning ideas into **clean, user-focused, production-ready software**.
 
 ---
 
-### 🔥 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BusandCode&show_icons=true&locale=en&hide_border=true)
 
-### ⚡ Current Streak
+### 🔥 Current GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BusandCode&theme=default&hide_border=true)](https://git.io/streak-stats)
