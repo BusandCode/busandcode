@@ -27,5 +27,5 @@ I enjoy turning ideas into **clean, user-focused, production-ready software**.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Metrics" src="./github-metrics.svg" />
+  <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/BusandCode/busandcode/main/github-metrics.svg" />
 </p>
