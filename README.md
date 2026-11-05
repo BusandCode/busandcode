@@ -27,12 +27,5 @@ I enjoy turning ideas into **clean, user-focused, production-ready software**.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BusandCode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=21600" />
-  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusandCode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=BusandCode&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img alt="GitHub Metrics" src="./github-metrics.svg" />
 </p>
