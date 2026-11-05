@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [master]
 
 permissions:
   contents: write
@@ -22,7 +22,6 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Lagos
-          config_theme: dark
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
